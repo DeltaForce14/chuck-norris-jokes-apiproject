@@ -1,0 +1,12 @@
+.center {
+    margin: auto;
+    width: 50%;
+  }
+
+body{
+    background-color: rgb(240, 225, 255);
+}
+
+img {
+    height: 200px;
+}
